@@ -1,2 +1,2 @@
 # Redes-Neuronales
-Notas de  Calse
+Notas de  Clase
